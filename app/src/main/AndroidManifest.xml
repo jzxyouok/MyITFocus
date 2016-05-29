@@ -22,7 +22,8 @@
         </activity>
         <activity android:name=".activity.MainActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
-        <activity android:name=".init.WelcomeActivity"></activity>
+        <activity android:name=".init.WelcomeActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
 </manifest>
